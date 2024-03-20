@@ -1,0 +1,3 @@
+OAuth API Credential Google
+client ID :  218663733018-1mhcj5ahvcvd2u8gv3r01drt078n92lh.apps.googleusercontent.com
+client secret : 4HEW2cf64lXsaxk1xW0DXlz0

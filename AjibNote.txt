@@ -1,0 +1,29 @@
+PT.GAP 2021 Recrtuitment Test - Posisi Web Programmer
+
+###############################
+#                             #
+#  Build By Ajib Roziq - 2021 #
+#                             #
+###############################
+
+# Pengantar
+Web Ini dibuat dengan beberapa library yang mana bertujuan untuk mempermudah dan mempercepat dalam proses pembuatan.
+
+# Bahasa Programan yang dipakai
+- PHP
+- HTML
+- JAVASCRIPT
+- CSS
+- MYSQL
+
+# Library dan Framework yang dipakai
+- Laravel 7
+- Template Admin Stisla
+- Bootsrap 4
+- Jquery
+
+
+# YANG BELUM BISA
+# EDIT DATA CART, UPDATE CART, DELETE SELECTED CART
+# MASUKIN KUPON, HITUNG SUBTOTAL DAN TOTAL
+# CHECKOUT
